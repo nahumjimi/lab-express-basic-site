@@ -1,0 +1,29 @@
+#HHpicture{
+    width: 500px;
+    height: 330px;
+}
+
+#carouselExampleControls{
+    height: 650px;
+    width: 650px;
+    justify-content: center;
+}
+
+#ordenar{
+     margin-left: 37%;
+     margin-top: 25px;
+}
+
+#ordenarTodo{
+    text-align: center;
+}
+
+.photogallery{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.spacePhotos{
+    margin: 10px ;
+}
